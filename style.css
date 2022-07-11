@@ -90,7 +90,7 @@ body {
     font-size: 18px;
 }
 
-.contact-info ul li i,
+.contact-info ol li i,
 .references ul li i {
     padding-right: 1rem;
     font-size: 18px;
